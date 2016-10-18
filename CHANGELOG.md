@@ -1,10 +1,11 @@
 # Change Log
 All notable changes to this project will be documented in this file. For change log formatting, see http://keepachangelog.com/
 
-# Unreleased
+## Unreleased
 
 - Fix rotary names instruction `exit onto`
 - Only mention end-of-road on uturn intructions
+- Respect name and ref for way_name
 
 ## 0.0.2 2016-10-18
 
